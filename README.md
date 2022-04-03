@@ -1,1 +1,1 @@
-# Real_Estate_Data_Scraping
+Using Python's Seleium module to collect real estate data from the web. 
