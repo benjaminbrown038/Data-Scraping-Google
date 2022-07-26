@@ -12,5 +12,3 @@ Set Up:
 Go into Directory.
 
 3. ``` python3 class-images.py```
-
-This will this 
